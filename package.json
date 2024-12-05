@@ -216,7 +216,7 @@
     "@web3-react/injected-connector": "6.0.7",
     "@web3-react/walletconnect-connector": "6.2.8",
     "asciichart": "^1.5.25",
-    "autosize": "^5.0.0",
+    "autosize": "^6.0.1",
     "axios": "^0.24.0",
     "babel-plugin-react-intl": "^8.2.25",
     "babel-runtime": "^6.26.0",
